@@ -1,0 +1,87 @@
+{
+  "id": "publications",
+  "number": "03",
+  "label": "Publications",
+  "heading": "Selected publications.",
+  "intro": "Recent work from the group — field studies, method papers and the occasional argument about uncertainty.",
+  "show_numbering": false,
+  "add_content_to_page": [
+    {
+      "add_featured_publication": {
+        "publication_group": "publications",
+        "keyword": "Sensors",
+        "title": "Calibration drift in low-cost turbidity sensors: a six-month field trial",
+        "authors": "Reyes, N., Mendoza, C. & Whitfield, A.",
+        "venue": "Water Research",
+        "year": "2025",
+        "summary": "A six-month trial of low-cost probes against a laboratory reference, and a simple correction that keeps them within 5% across the full temperature range.",
+        "link": "https://doi.org/10.1016/j.watres.2025.122418",
+        "link_label": "Read the paper",
+        "image_path": "assets/img/ph-14.jpg",
+        "image_alt": "A researcher working at a laboratory instrument",
+        "image_caption": "Reference analysis after the field visit.",
+        "image_credit": "Northfield Media",
+        "tags": [
+          "Sensors",
+          "Methods",
+          "Urban rivers"
+        ]
+      }
+    },
+    {
+      "add_publication_or_more": {
+        "publication_group": "publications",
+        "show_numbering": false,
+        "filter_position": "top",
+        "items": [
+          {
+            "title": "Tyre-wear particles in urban river sediments: a mass-balance approach",
+            "authors": "Reyes, N. & Lindqvist, H.",
+            "venue": "Environmental Pollution",
+            "year": "2025",
+            "link": "https://doi.org/10.1016/j.envpol.2025.125907",
+            "tags": [
+              "Microplastics",
+              "Urban rivers",
+              "Sediment"
+            ]
+          },
+          {
+            "title": "Sediment storage of phosphorus after riparian restoration",
+            "authors": "Okafor, J. & Reyes, N.",
+            "venue": "Journal of Environmental Management",
+            "year": "2024",
+            "link": "https://doi.org/10.1016/j.jenvman.2024.121883",
+            "tags": [
+              "Sediment",
+              "Nutrients"
+            ]
+          },
+          {
+            "title": "An open protocol for porewater sampling in fine sediments",
+            "authors": "Reyes, N., Okafor, J. & Field, M.",
+            "venue": "MethodsX",
+            "year": "2023",
+            "link": "https://doi.org/10.1016/j.mex.2023.102315",
+            "tags": [
+              "Methods",
+              "Sediment"
+            ]
+          },
+          {
+            "title": "Nitrate pulses after autumn rainfall: ten years of high-frequency data",
+            "authors": "Whitfield, A. & Reyes, N.",
+            "venue": "Hydrological Processes",
+            "year": "2023",
+            "link": "https://doi.org/10.1002/hyp.15022",
+            "tags": [
+              "Catchments",
+              "Sensors",
+              "Nutrients"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": "education",
+  "number": "02",
+  "label": "Education",
+  "heading": "Education & experience.",
+  "intro": "Posts, degrees and the parts of academic life that do not fit on a CV line.",
+  "add_content_to_page": [
+    {
+      "column": "left",
+      "add_expandable_information": [
+        {
+          "expandable_information_row_label": "Appointments",
+          "expanded": true,
+          "add_information_to_expandable_item": [
+            {
+              "expandable_item_left_column_info": "2023 – present",
+              "expandable_item_right_column_primary_information": [
+                "Lecturer in Environmental Chemistry",
+                "Northfield University"
+              ],
+              "expandable_item_right_column_secondary_information": [
+                {
+                  "label": "School",
+                  "value": "Geography, Earth and Environmental Sciences"
+                },
+                {
+                  "label": "Group",
+                  "value": "Four PhD students and one postdoc"
+                }
+              ]
+            },
+            {
+              "expandable_item_left_column_info": "2020 – 2023",
+              "expandable_item_right_column_primary_information": [
+                "Postdoctoral Research Associate",
+                "University of Bristol"
+              ],
+              "expandable_item_right_column_secondary_information": [
+                {
+                  "label": "Focus",
+                  "value": "Drought legacies and dissolved organic carbon export"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "expandable_information_row_label": "Education",
+          "add_information_to_expandable_item": [
+            {
+              "expandable_item_left_column_info": "2016 – 2020",
+              "expandable_item_right_column_primary_information": [
+                "PhD in Environmental Chemistry",
+                "University of Bristol"
+              ],
+              "expandable_item_right_column_secondary_information": [
+                {
+                  "label": "Thesis",
+                  "value": "Drought legacies and dissolved organic carbon export from upland catchments"
+                },
+                {
+                  "label": "Supervisor",
+                  "value": "Prof. Alan Whitfield"
+                }
+              ]
+            },
+            {
+              "expandable_item_left_column_info": "2012 – 2016",
+              "expandable_item_right_column_primary_information": [
+                "MEnvSci in Environmental Science",
+                "University of Leeds",
+                "First Class"
+              ],
+              "expandable_item_right_column_secondary_information": [
+                {
+                  "label": "Dissertation",
+                  "value": "Metal partitioning in urban road sediments"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "expandable_information_row_label": "Awards & service",
+          "add_information_to_expandable_item": [
+            {
+              "expandable_item_left_column_info": "2025",
+              "expandable_item_right_column_primary_information": "Northfield Teaching Award for Field Instruction"
+            },
+            {
+              "expandable_item_left_column_info": "2024",
+              "expandable_item_right_column_primary_information": "Best Paper, Water Research — calibration drift in low-cost turbidity sensors"
+            },
+            {
+              "expandable_item_left_column_info": "2023",
+              "expandable_item_right_column_primary_information": "Session convener, European Geosciences Union — uncertainty in environmental sensors"
+            },
+            {
+              "expandable_item_left_column_info": "Ongoing",
+              "expandable_item_right_column_primary_information": "Reviewer for Biogeochemistry, Water Research and Environmental Pollution; departmental lead for research data management"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "column": "right",
+      "add_gallery": {
+        "size": "5:4",
+        "images": [
+          {
+            "image_path": "assets/img/3.jpg",
+            "image_alt": "The research group in the laboratory",
+            "image_caption": "The group at the Northfield wet lab.",
+            "image_credit": "Northfield Media"
+          }
+        ]
+      }
+    }
+  ]
+}

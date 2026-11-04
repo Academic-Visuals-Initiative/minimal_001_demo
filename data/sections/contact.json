@@ -1,0 +1,24 @@
+{
+  "id": "contact",
+  "number": "06",
+  "label": "Contact",
+  "heading": "Get in touch.",
+  "intro": "The quickest way to reach me is email. I answer most messages within a week.",
+  "add_content_to_page": [
+    {
+      "add_contact_information": {
+        "heading": "Direct",
+        "email": "naomi.reyes@northfield.ac.uk",
+        "phone": "+44 191 555 0142",
+        "note": "Collaborations · reviews · student enquiries",
+        "column": "left"
+      }
+    },
+    {
+      "add_paragraph": {
+        "column": "right",
+        "text": "I am glad to hear from collaborators, reviewers and students — especially students. A short, specific question is always easier to answer. Office hours: Tuesday 10–12 and Thursday 14–16, Room 2.14, Geography Building."
+      }
+    }
+  ]
+}

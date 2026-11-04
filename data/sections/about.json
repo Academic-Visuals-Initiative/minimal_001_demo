@@ -1,0 +1,14 @@
+{
+  "id": "about",
+  "number": "01",
+  "label": "About",
+  "heading": "Measurement, mostly outdoors.",
+  "intro": "This is a Fictional Character. I study carbon and contaminants in rivers, soils and coastal sediments — and the instruments that measure them.",
+  "add_content_to_page": [
+    {
+      "add_paragraph": {
+        "text": "I run a small group at Northfield that works on the chemistry of water as it moves through a landscape. Most projects begin with a measurement problem: a sensor that drifts, a storm that arrives between samples, a core that mixes two seasons. They end, if we are lucky, with a method someone else can repeat without calling us first.Before Northfield I did a postdoc at Bristol on catchment carbon export. The group here combines field campaigns, long-term sensors and laboratory work, with a shared preference for data that carries a visible history — calibration records, blank trips, and a decent explanation for the awkward gap."
+      }
+    }
+  ]
+}

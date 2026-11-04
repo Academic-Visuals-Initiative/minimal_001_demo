@@ -1,0 +1,66 @@
+{
+  "id": "teaching",
+  "number": "05",
+  "label": "Teaching",
+  "heading": "Teaching and talks.",
+  "intro": "The parts of environmental chemistry that are hard to fake: sampling design, calibration and uncertainty.",
+  "add_content_to_page": [
+    {
+      "add_teaching_items": {
+        "heading": "Courses",
+        "items": [
+          {
+            "name": "Environmental Analytical Chemistry",
+            "code": "ENV 402",
+            "level": "MSc",
+            "term": "Since 2024",
+            "intro": "Calibration, detection limits and the difference between a number and a measurement. Lab-heavy: every student runs the same standard curve twice."
+          },
+          {
+            "name": "Field Methods for Catchment Science",
+            "code": "ENV 317",
+            "level": "BSc",
+            "term": "Since 2023",
+            "intro": "Sampling design in the rain — nested catchments, blank trips, and what to do when the probe drifts halfway up the hill."
+          },
+          {
+            "name": "Data Skills for Environmental Scientists",
+            "code": "ENV 505",
+            "level": "PhD workshop",
+            "term": "Annual since 2022",
+            "intro": "Three days of R, tidy field sheets and figures that survive a reviewer."
+          }
+        ],
+        "column": "left"
+      }
+    },
+    {
+      "add_a_timeline": {
+        "heading": "Recent talks",
+        "items_of_the_timeline": [
+          {
+            "timeline_item_date": "2026",
+            "timeline_item_title": "Keynote: the half-life of a measurement",
+            "timeline_item_text": "British Society for Environmental Chemistry, Cardiff."
+          },
+          {
+            "timeline_item_date": "2025",
+            "timeline_item_title": "Invited: what sediment cores forget",
+            "timeline_item_text": "Northfield Water Seminar."
+          },
+          {
+            "timeline_item_date": "2024",
+            "timeline_item_title": "Contributed: drift, and what to do about it",
+            "timeline_item_text": "European Geosciences Union, Vienna."
+          },
+          {
+            "timeline_item_date": "2023",
+            "timeline_item_title": "Contributed: porewater sampling in fine sediments",
+            "timeline_item_text": "Goldschmidt, Lyon."
+          }
+        ],
+        "column": "right"
+      }
+    }
+  ]
+}

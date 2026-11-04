@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Page</title>
+  <meta name="description" content="">
+  <meta name="author" content="">
+  <meta name="robots" content="index, follow">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="" id="ogTitle">
+  <meta property="og:description" content="" id="ogDescription">
+  <meta property="og:url" content="" id="ogUrl">
+  <meta property="og:image" content="" id="ogImage">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="canonical" href="" id="canonical">
+  <link rel="icon" href="../assets/images/portrait.jpg" id="favicon">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preload" href="../assets/images/portrait.jpg" as="image" fetchpriority="high">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400;1,500;1,600&family=Newsreader:ital,opsz,wght@0,6..72,300;0,6..72,400;0,6..72,500;1,6..72,300;1,6..72,400;1,6..72,500&display=swap">
+  <link rel="stylesheet" href="../css/site.css?v=151">
+</head>
+
+<body>
+  <a class="skip" href="#content">Skip to content</a>
+
+  <div class="shell">
+    <div id="header"></div>
+    <main id="content"></main>
+
+    <footer class="footer" id="footer" aria-label="Footer">
+      <div class="social" id="social"></div>
+      <p class="credit" data-credits>
+        Designed by <a href="https://www.academicvisualsinitiative.org" target="_blank" rel="noopener">AVI</a>.
+        Licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener">CC BY-NC-SA 4.0</a>.
+        Hosted on <a href="https://pages.github.com" target="_blank" rel="noopener">GitHub Pages</a>.
+      </p>
+    </footer>
+  </div>
+
+  <div class="lightbox" id="lightbox" role="dialog" aria-modal="true" aria-label="Image viewer" hidden>
+    <button class="lightbox__close" type="button" data-lightbox-close aria-label="Close image">&times;</button>
+    <figure class="lightbox__figure">
+      <img id="lightboxImage" alt="">
+      <figcaption id="lightboxCaption"></figcaption>
+    </figure>
+  </div>
+
+  <noscript>
+    <p class="noscript">This page is drawn from JSON. Please enable JavaScript to read it.</p>
+  </noscript>
+
+  <script src="../js/core.js?v=151" defer></script>
+  <script src="../js/schema.js?v=151" defer></script>
+  <script src="../js/elements.js?v=151" defer></script>
+  <script src="../js/render/text.js?v=151" defer></script>
+  <script src="../js/render/data.js?v=151" defer></script>
+  <script src="../js/render/media.js?v=151" defer></script>
+  <script src="../js/render/structure.js?v=151" defer></script>
+  <script src="../js/app.js?v=151" defer></script>
+</body>
+</html>

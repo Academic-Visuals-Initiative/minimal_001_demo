@@ -1,0 +1,53 @@
+{
+  "id": "research",
+  "number": "04",
+  "label": "Projects",
+  "heading": "Three questions, mostly about water.",
+  "intro": "Projects run from the sensor bench to the estuary mudflat. Each one starts with a measurement that does not yet exist.",
+  "add_content_to_page": [
+    {
+      "add_cards": {
+        "columns": 3,
+        "individual_card_details": [
+          {
+            "individual_card_keyword": "Sensors",
+            "heading": "Drift, and the half-life of a measurement",
+            "image_path": "assets/img/ph-15.jpg",
+            "image_alt": "Researchers taking field measurements beside a stream",
+            "text": "Low-cost turbidity sensors fail slowly. This project builds the calibration records and correction models that let a £300 probe hold its own against a laboratory reference for six months, through a full winter.",
+            "tags": [
+              "Sensors",
+              "Methods"
+            ],
+            "link": "www.example.com"
+          },
+          {
+            "individual_card_keyword": "Sediment",
+            "heading": "What sediment cores forget",
+            "image_path": "assets/images/coast.jpg",
+            "image_alt": "Waves breaking over a rocky coast",
+            "text": "Coastal cores are read as archives, but mixing, decay and storm layers erase parts of the record. We are testing how much of a carbon and phosphorus budget survives that loss.",
+            "tags": [
+              "Sediment",
+              "Coastal carbon"
+            ],
+            "link": "www.example.com"
+          },
+          {
+            "individual_card_keyword": "Microplastics",
+            "heading": "Microplastics between the road and the river",
+            "image_path": "assets/img/ph-04.png",
+            "image_alt": "Environmental samples and laboratory analysis",
+            "text": "A two-catchment comparison of tyre wear, road runoff and stream deposition — and why the smallest particles do not behave like the ones we can see.",
+            "tags": [
+              "Microplastics",
+              "Urban rivers"
+            ],
+            "link": "www.example.com"
+          }
+        ],
+        "show_categories": true
+      }
+    }
+  ]
+}

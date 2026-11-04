@@ -1,0 +1,60 @@
+{
+  "title": "Naomi Reyes",
+  "description": "Naomi Reyes is a lecturer in environmental chemistry at Northfield University in Bristol. Her group measures how carbon, nutrients and contaminants move through rivers, soils and coastal sediments, and builds the low-cost instruments that keep those measurements honest over years rather than hours. Current projects cover sensor drift in urban rivers, the memory of coastal sediment cores, microplastic transport between roads and streams, and winter carbon export from upland catchments. She teaches analytical and field chemistry, and works with local authorities and catchment groups on long-term monitoring.",
+  "author": "Naomi Reyes",
+  "favicon": "assets/logos/AVI.png",
+  "header": {
+    "name": "Naomi Reyes",
+    "title": "Lecturer in Environmental Chemistry",
+    "affiliation": "Northfield University · School of Geography, Earth and Environmental Sciences",
+    "subheading": "Portfolio - 2026",
+    "email": "naomi.reyes@northfield.ac.uk",
+    "image_path": "assets/images/portrait.jpg",
+    "image_alt": "Portrait of Dr. Naomi Reyes",
+    "cv": {
+      "label": "View CV",
+      "file": "assets/cv.pdf"
+    },
+    "additional_info": [
+      "Water, sediment and soil chemistry",
+      "Low-cost sensors & long-term monitoring",
+      "Environmental Chemistry"
+    ]
+  },
+  "sections": [
+    "about",
+    "education",
+    "publications",
+    "research",
+    "teaching",
+    "contact"
+  ],
+  "footer": {
+    "links": [
+      {
+        "link": "mailto:naomi.reyes@northfield.ac.uk",
+        "icon": "mail"
+      },
+      {
+        "link": "https://scholar.google.com/citations?user=naomi-reyes",
+        "icon": "googlescholar-old"
+      },
+      {
+        "link": "https://orcid.org/0000-0002-4817-3620",
+        "icon": "orcid"
+      },
+      {
+        "link": "https://github.com/naomireyes",
+        "icon": "github"
+      },
+      {
+        "link": "https://www.linkedin.com/in/naomi-reyes",
+        "icon": "linkedin"
+      },
+      {
+        "link": "https://bsky.app/profile/naomi-reyes.bsky.social",
+        "icon": "bluesky"
+      }
+    ]
+  }
+}
